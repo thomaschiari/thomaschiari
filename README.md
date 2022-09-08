@@ -36,4 +36,4 @@ Currently working with Data Engineering, and Full Stack Development. Currently l
 - :email: thomaschiari@gmail.com
 - :email: thomasccs@al.insper.edu.br
 - :briefcase: [LinkedIn](https://www.linkedin.com/in/thomas-chiari-ciocchetti-de-souza-669735b9/)
-- :computer: [Portfolio](https://thomaschiari.github.io/)
+- :computer: [Portfolio](https://thomaschiari.github.io/) (developing)
