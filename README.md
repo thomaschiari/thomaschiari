@@ -13,7 +13,7 @@
 
 ### :man_technologist: About Me:
 Computer Science student from Brazil.
-Currently working with Data Engineering, and Full Stack Development.
+Currently working with Data Engineering, and Full Stack Development. Currently looking to further develop my knowledge in Data Engineering and Web Development.
 - :chart_with_upwards_trend: Data Engineering using Python, currently learning AWS Infrastructure.
 - :computer: Full Stack Development using React, NodeJS, MongoDB, Django, and PostgreSQL.
 - :books: Currently learning AWS Infrastructure, Flask, React Native, and Docker.
@@ -23,7 +23,17 @@ Currently working with Data Engineering, and Full Stack Development.
 - :floppy_disk: SQL (fluent);
 - :page_facing_up: HTML (fluent);
 - :page_facing_up: CSS (fluent);
-- :open_file_folder: Django Rest Framework (learning);
+- :bar_chart: R (fluent);
+- :straight_ruler: Visual Basic (Fluent);
 - :computer: JavaScript (advanced);
-- :wrench: Go (learning);
+- :open_file_folder: Django Rest Framework (learning);
+- :file_folder: NoSQL (learning);
+- :wrench: Golang (learning);
 - :blue_book: jQuery (learning).
+
+
+### :mailbox: How to reach me:
+- :email: thomaschiari@gmail.com
+- :email: thomasccs@al.insper.edu.br
+- :briefcase: [LinkedIn](https://www.linkedin.com/in/thomas-chiari-ciocchetti-de-souza-669735b9/)
+- :computer: [Portfolio](https://thomaschiari.github.io/)
