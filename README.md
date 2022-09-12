@@ -13,7 +13,7 @@
 
 ### :man_technologist: About Me:
 Computer Science student from Brazil.
-Currently working with Data Engineering, and Full Stack Development. Currently looking to further develop my knowledge in Data Engineering and Web Development.
+Currently working with Data Engineering, and Full Stack Development. Currently looking to further develop my knowledge in Data Engineering and Web Development. Always looking to learn new skills and technologies.
 - :chart_with_upwards_trend: Data Engineering using Python, currently learning AWS Infrastructure.
 - :computer: Full Stack Development using React, NodeJS, MongoDB, Django, and PostgreSQL.
 - :books: Currently learning AWS Infrastructure, Flask, React Native, and Docker.
