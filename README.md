@@ -49,4 +49,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaschiari&count_private=true&theme=dark)](https://github.com/thomaschiari)
 
-[![Currently Working On...](https://github-readme-stats.vercel.app/api/pin/?username=thomaschiari&repo=Machine-Learning-For-Everybody&theme=dark&show_owner=true)](https://github.com/thomaschiari)
+[![Currently Working On...](https://github-readme-stats.vercel.app/api/pin/?username=Maraba23&repo=AlphaCamera&theme=dark&show_owner=true)](https://github.com/thomaschiari)
