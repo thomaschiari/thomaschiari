@@ -49,4 +49,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaschiari&count_private=true&theme=dark)](https://github.com/thomaschiari)
 
-[![Currently Working On...](https://github-readme-stats.vercel.app/api/pin/?username=thomaschiari&repo=algebra-linear-enigma&theme=dark&show_owner=true)](https://github.com/thomaschiari)
+[![Currently Working On...](https://github-readme-stats.vercel.app/api/pin/?username=thomaschiari&repo=Algebra-Linear-Enigma&theme=dark&show_owner=true)](https://github.com/thomaschiari)
