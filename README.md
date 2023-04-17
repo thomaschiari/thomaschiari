@@ -16,6 +16,7 @@
 - I'm a 22 year old student from Brazil.
 - Currently studying Computer Science @[Insper Learning Institute](https://www.insper.edu.br/)
 - Really interested in Data Science and Machine Learning and I'm always looking forward to improving those skills
+- My Kaggle profile: [click here](https://www.kaggle.com/thomaschiari)
 
 ## Programming Languages
 - Python (fluent)
