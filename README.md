@@ -49,10 +49,9 @@
 ## Some Statistics...
 [![ThomasChiari's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaschiari&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/thomaschiari)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaschiari&count_private=true&theme=dark)](https://github.com/thomaschiari)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaschiari&count_private=true&theme=dark&hide_progress=true)](https://github.com/thomaschiari)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+## Currently working on...
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thomaschiari&repo=Chefes-do-Kazambastao-backend&theme=dark)](https://github.com/thomaschiari/Chefes-do-Kazambastao-backend)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thomaschiari&repo=Spaceship-Titanic-Kaggle-Competition&theme=dark)](https://github.com/thomaschiari/Spaceship-Titanic-Kaggle-Competition)
