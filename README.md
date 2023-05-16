@@ -51,6 +51,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaschiari&count_private=true&theme=dark&hide_progress=true)](https://github.com/thomaschiari)
 
+[![Thomas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thomaschiari&theme=dark&layout=compact)](https://github.com/thomaschiari)
+
 ## Currently working on...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thomaschiari&repo=Chefes-do-Kazambastao-backend&theme=dark)](https://github.com/thomaschiari/Chefes-do-Kazambastao-backend)
 
