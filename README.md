@@ -120,7 +120,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaschiari&layout=pie&theme=cobalt&layout=compact)](https://github.com/thomaschiari)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaschiari&theme=cobalt&layout=compact)](https://github.com/thomaschiari)
 
 <br/>  
 
