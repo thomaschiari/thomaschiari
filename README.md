@@ -1,59 +1,131 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="center" height="" width="100" />
+</div>  
+  
+
+# <div align="center">Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Thomas.</div>  
+  
+
+
+
+### About me  
+- 🇧🇷 23 years old from São Paulo, Brazil  
+  
+
+- 📊 Machine Learning and Artificial Intelligence Director @ [Insper Dynamics](https://github.com/InsperDynamics)  
+  
+
+- 🏦 Strategy and Planning, Data Analytics and Development @ [Daki](https://soudaki.com/)  
+  
+
+- ⚡ Makers Fellow (MF3) @ [makers.build](https://www.makers.build/)  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
 </div>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/thomas-chiari-ciocchetti-de-souza-669735b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend & DevOps  
+<div align="center">  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="25" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" /></a>  
+<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="25" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
+<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="25" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
+<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="25" /></a>  
 </div>
-<h1>
-  hello, world!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Thomas.
-</h1>
 
-## About Me
-- I'm a 22 year old student from Brazil.
-- Currently studying Computer Science @[Insper Learning Institute](https://www.insper.edu.br/)
-- Really interested in Data Science and Machine Learning and I'm always looking forward to improving those skills
-- My Kaggle profile: [click here](https://www.kaggle.com/thomaschiari)
+</td><td valign="top" width="33%">
 
-## Programming Languages
-- Python (fluent)
-- Java (advanced)
-- Javascript (advanced)
-- R (advanced)
-- SQL (advanced)
-- Go (learning)
 
-## Skills and Technologies
-- Web Front-End development using:
-  - CSS-HTML
-  - React.Js
-  - Bootstrap
-  - Materialize
-- Web Back-End development using:
-  - Python Django
-  - Python Flask
-  - Node.Js
-  - Spring Boot
-  - MongoDB
-  - MySQL
-  - PostgreSQL
-- Data Science and Machine Learning using:
-  - RStudio
-  - Python Pandas
-  - Scikit-Learn
-  - Tensor Flow
 
-## Some Statistics...
-[![ThomasChiari's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaschiari&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/thomaschiari)
+### ML & Analytics  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" /></a>  
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="25" /></a>  
+<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="25" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="25" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaschiari&count_private=true&theme=dark&hide_progress=true)](https://github.com/thomaschiari)
+</td></tr></table>  
 
-## Currently working on...
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thomaschiari&repo=ML_AI-Training&theme=dark)](https://github.com/thomaschiari/ML_AI-Training)
+<br/>  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thomaschiari&repo=Legiao-Pluviarcana-Back-End&theme=dark)](https://github.com/thomaschiari/Legiao-Pluviarcana-Back-End)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thomaschiari&repo=Spaceship-Titanic-Kaggle-Competition&theme=dark)](https://github.com/thomaschiari/Spaceship-Titanic-Kaggle-Competition)
+## Connect with me  
+<div align="center">
+<a href="https://github.com/https://github.com/thomaschiari" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/thomas.chiari/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/thomas-chiari-ciocchetti-de-souza-669735b9/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/https://www.kaggle.com/thomaschiari" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thomaschiari&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomaschiari&hide_border=true&layout=compact" align="left" style="width: 100%" />  
+
+<br/>  
+
+
+## Currently working on...  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
