@@ -131,6 +131,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thomaschiari&repo=Ber-Language&theme=cobalt)](https://github.com/thomaschiari/Ber-Language)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thomaschiari&repo=FlameFightFantasy&theme=cobalt)](https://github.com/thomaschiari/FlameFightFantasy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thomaschiari&repo=FlameFightFantasyPlatformer&theme=cobalt)](https://github.com/thomaschiari/FlameFightFantasyPlatformer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thomaschiari&repo=rocket-race-mobile&theme=cobalt)](https://github.com/thomaschiari/rocket-race-mobile)
 
 <br />
 
