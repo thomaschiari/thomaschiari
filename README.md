@@ -15,7 +15,7 @@
 - 📊 Machine Learning and Artificial Intelligence Director @ [Insper Dynamics](https://github.com/InsperDynamics)  
   
 
-- 🏦 Strategy and Planning, Data Analytics and Development @ [Daki](https://soudaki.com/)  
+- 🏦 Strategy and Data Science @ [Daki](https://soudaki.com/)  
   
 
 - ⚡ Makers Fellow (MF3) @ [makers.build](https://www.makers.build/)
