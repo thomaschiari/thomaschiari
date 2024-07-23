@@ -18,7 +18,10 @@
 - 🏦 Strategy and Planning, Data Analytics and Development @ [Daki](https://soudaki.com/)  
   
 
-- ⚡ Makers Fellow (MF3) @ [makers.build](https://www.makers.build/)  
+- ⚡ Makers Fellow (MF3) @ [makers.build](https://www.makers.build/)
+
+
+- 🦾 Cofounder @ [Jolt](https://github.com/jolt-software)
   
 
 <br/>  
