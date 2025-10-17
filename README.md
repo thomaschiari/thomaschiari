@@ -1,18 +1,8 @@
-Hello, I'm Thomas. A curious builder, interested in building useful things from scratch.
+Hi, I'm Thomas.  
+I build systems that seek coherence between intelligence, structure, and intent. From agents that reason to tools that last.  
+Part of a founding team evolving enterprise financial systems through AI and design.  
 
-### About
-- 24 years old, from São Paulo, Brazil  
-- Machine Learning and Artificial Intelligence Director @ [Insper Dynamics](https://github.com/InsperDynamics)  
-- Strategy and Data Science @ [Daki](https://soudaki.com/)  
-- Cofounder @ [Jolt Software](https://github.com/jolt-software)  
-- Makers Fellow @ [makers.build](https://makers.ngo/)
-
-### Interests
-- Business Analytics, Startups, and Venture Building  
-- Data-Driven Strategy, Data Science, and Artificial Intelligence
-- Building things that are actually useful and might make a difference
-
-### Currently working on
-- Functional Programming (OCaml, Haskell, F#)
-- AI-Based Personal Knowledge Management tools
-- LangChain and LangGraph
+I’m drawn to learning about how things think and why people build:  
+- Intelligent agents, context, and memory  
+- Product philosophy and the architecture of ideas  
+- How reasoning, art, and intent can coexist in what we create
